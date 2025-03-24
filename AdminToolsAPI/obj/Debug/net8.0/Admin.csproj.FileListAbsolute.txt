@@ -1,0 +1,90 @@
+E:\freelanceyard2\Admin\bin\Debug\net8.0\appsettings.Development.json
+E:\freelanceyard2\Admin\bin\Debug\net8.0\appsettings.json
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Admin.staticwebassets.endpoints.json
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Admin.exe
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Admin.deps.json
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Admin.runtimeconfig.json
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Admin.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Admin.pdb
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.csproj.AssemblyReference.cache
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.GeneratedMSBuildEditorConfig.editorconfig
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.AssemblyInfoInputs.cache
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.AssemblyInfo.cs
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.csproj.CoreCompileInputs.cache
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.MvcApplicationPartsAssemblyInfo.cs
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.MvcApplicationPartsAssemblyInfo.cache
+E:\freelanceyard2\Admin\obj\Debug\net8.0\scopedcss\bundle\Admin.styles.css
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets.build.json
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets.development.json
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets\msbuild.build.Admin.props
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Admin.props
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Admin.props
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets.pack.json
+E:\freelanceyard2\Admin\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.csproj.Up2Date
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.dll
+E:\freelanceyard2\Admin\obj\Debug\net8.0\refint\Admin.dll
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.pdb
+E:\freelanceyard2\Admin\obj\Debug\net8.0\Admin.genruntimeconfig.cache
+E:\freelanceyard2\Admin\obj\Debug\net8.0\ref\Admin.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\freelanceyard2\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\appsettings.Development.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\appsettings.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Admin.staticwebassets.endpoints.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Admin.exe
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Admin.deps.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Admin.runtimeconfig.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Admin.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Admin.pdb
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.csproj.AssemblyReference.cache
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.GeneratedMSBuildEditorConfig.editorconfig
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.AssemblyInfoInputs.cache
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.AssemblyInfo.cs
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.csproj.CoreCompileInputs.cache
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.MvcApplicationPartsAssemblyInfo.cs
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.MvcApplicationPartsAssemblyInfo.cache
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\scopedcss\bundle\Admin.styles.css
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets.build.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets.development.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssets.props
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets\msbuild.build.Admin.props
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Admin.props
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Admin.props
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets.pack.json
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.csproj.Up2Date
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\refint\Admin.dll
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.pdb
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\Admin.genruntimeconfig.cache
+E:\learninig\شغل فعلي\FreelancerYard\freelanceyard2 اللي هيتسلم ان شاء الله\Admin\obj\Debug\net8.0\ref\Admin.dll

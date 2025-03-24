@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "Admin.Controllers.AdminController",
+    "Method": "CheckAdminAccess",
+    "RelativePath": "api/Admin/check",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Admin.Controllers.AdminController",
+    "Method": "GetSiteStats",
+    "RelativePath": "api/Admin/GetSiteStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Admin.Controllers.AdminController",
+    "Method": "GetMaintenanceStatus",
+    "RelativePath": "api/Admin/maintenance/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Admin.Controllers.AdminController",
+    "Method": "ToggleMaintenanceMode",
+    "RelativePath": "api/Admin/maintenance/toggle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Admin.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Admin.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
